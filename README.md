@@ -1,3 +1,5 @@
 # hello-world
 My first repository
-and it's my first time coding!
+
+# about me
+My name is Socheata Som
