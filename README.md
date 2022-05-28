@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-My first time coding!
+and it's my first time coding!
